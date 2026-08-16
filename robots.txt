@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /portal-restrito
+Disallow: /parcerias-restrito
+
+Sitemap: https://site-tcctotal.vercel.app/sitemap.xml
